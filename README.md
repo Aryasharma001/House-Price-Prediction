@@ -1,7 +1,7 @@
 # House-Price-Prediction-Model
 ![image](https://user-images.githubusercontent.com/98249716/201017580-fe1d52bf-fe32-4548-889a-3705bf494209.png)
 
-### Developed Machine Learning model to predict house prices based on 81 initial features which were then sorted on the basis of prblem statement.
+### Developed Machine Learning model to predict house prices based on 81 initial features which were then sorted on the basis of problem statement.
 ## Project Description
 #### Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this  dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
 
